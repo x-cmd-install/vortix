@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 2824876,
       "digest": "sha256:31a7591bbe5a58a72eaf43c38cf0818638b85366134a48ecc2b886d71c23745d",
-      "download_count": 48,
+      "download_count": 49,
       "created_at": "2026-07-18T14:28:31Z",
       "updated_at": "2026-07-18T14:28:32Z",
       "browser_download_url": "https://github.com/Harry-kp/vortix/releases/download/v0.4.3/vortix-x86_64-unknown-linux-musl.tar.xz"
