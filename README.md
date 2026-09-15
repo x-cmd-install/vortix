@@ -33,7 +33,7 @@ Total: **149,225** lines of code across **278** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.4.3` (2026-07-18)
-- **Last commit**: 2026-09-12
+- **Last commit**: 2026-09-14
 - **Assets in release**: 19
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **149,225** lines of code across **278** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 18 · **Merged PRs**: 126 · **Open PRs**: 2 · **Closed issues**: 104 · **Open issues**: 23 · **Commits**: 318
+- **Releases**: 18 · **Merged PRs**: 127 · **Open PRs**: 4 · **Closed issues**: 104 · **Open issues**: 23 · **Commits**: 319
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 0 | 17 | 2 | 0 | 1 | 29 |
-| last60d | 2026-07-16 | 1 | 33 | 2 | 0 | 4 | 36 |
-| 90d | 2026-06-16 | 2 | 46 | 2 | 1 | 7 | 50 |
-| last180d | 2026-03-18 | 10 | 84 | 2 | 11 | 18 | 131 |
-| 360d | 2025-09-19 | 18 | 126 | 2 | 104 | 23 | 272 |
-| last720d | 2024-09-24 | 18 | 126 | 2 | 104 | 23 | 318 |
+| 30d | 2026-08-16 | 0 | 18 | 4 | 0 | 1 | 30 |
+| last60d | 2026-07-17 | 1 | 34 | 4 | 0 | 4 | 37 |
+| 90d | 2026-06-17 | 1 | 44 | 4 | 1 | 7 | 51 |
+| last180d | 2026-03-19 | 10 | 84 | 4 | 8 | 7 | 132 |
+| 360d | 2025-09-20 | 18 | 127 | 4 | 104 | 23 | 273 |
+| last720d | 2024-09-25 | 18 | 127 | 4 | 104 | 23 | 319 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for vortix lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T05:49:31Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T05:47:05Z._
