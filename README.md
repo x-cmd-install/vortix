@@ -4,7 +4,7 @@
 
 Terminal UI for WireGuard and OpenVPN with real-time telemetry and leak guarding.
 
-![vortix](https://repo.x-cmd.io/vortix.svg)
+[![x-cmd/install — vortix Code Quality Monitoring Repo Card](https://repo.x-cmd.io/vortix.svg)](https://x-cmd.com/install/vortix)
 
 ## Install
 
@@ -14,13 +14,13 @@ x install vortix
 
 ## Code insight
 
-Total: **149,225** lines of code across **278** files in the top 5 languages.
+Total: **111,540** lines of code across **226** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 147,470 | 3,142 | 11,847 | 254 |
-| Sh | 1,421 | 229 | 201 | 12 |
-| Toml | 256 | 119 | 46 | 9 |
+| Rust | 109,659 | 3,531 | 9,169 | 200 |
+| Sh | 1,555 | 286 | 234 | 14 |
+| Toml | 248 | 117 | 44 | 9 |
 | Nix | 50 | 2 | 11 | 1 |
 | Bitbake | 15 | 6 | 4 | 2 |
 
@@ -33,27 +33,27 @@ Total: **149,225** lines of code across **278** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.4.3` (2026-07-18)
-- **Last commit**: 2026-09-16
+- **Last commit**: 2026-09-19
 - **Assets in release**: 19
 
 ## Popularity
 
-- **Stars**: 650 · **Forks**: 28 · **Open issues**: 127 · **Contributors**: 9
+- **Stars**: 651 · **Forks**: 28 · **Open issues**: 127 · **Contributors**: 9
 
 ## Totals (cumulative)
 
-- **Releases**: 18 · **Merged PRs**: 128 · **Open PRs**: 3 · **Closed issues**: 104 · **Open issues**: 23 · **Commits**: 320
+- **Releases**: 18 · **Merged PRs**: 133 · **Open PRs**: 1 · **Closed issues**: 104 · **Open issues**: 23 · **Commits**: 476
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 16 | 3 | 0 | 1 | 31 |
-| last60d | 2026-07-20 | 0 | 29 | 3 | 0 | 3 | 38 |
-| 90d | 2026-06-20 | 1 | 42 | 3 | 1 | 4 | 52 |
-| last180d | 2026-03-22 | 9 | 83 | 3 | 8 | 7 | 133 |
-| 360d | 2025-09-23 | 18 | 128 | 3 | 104 | 23 | 274 |
-| last720d | 2024-09-28 | 18 | 128 | 3 | 104 | 23 | 320 |
+| 30d | 2026-08-21 | 0 | 19 | 1 | 0 | 1 | 186 |
+| last60d | 2026-07-22 | 0 | 34 | 1 | 0 | 2 | 192 |
+| 90d | 2026-06-22 | 1 | 46 | 1 | 1 | 4 | 206 |
+| last180d | 2026-03-24 | 9 | 86 | 1 | 7 | 7 | 279 |
+| 360d | 2025-09-25 | 18 | 133 | 1 | 104 | 23 | 429 |
+| last720d | 2024-09-30 | 18 | 133 | 1 | 104 | 23 | 476 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for vortix lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:28:41Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:50:49Z._
