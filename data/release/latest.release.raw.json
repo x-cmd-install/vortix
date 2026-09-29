@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 2896587,
       "digest": "sha256:cf169848824b0ea940260e2659b4195a75b00e22b830d6244a72102817042b17",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-09-27T12:01:25Z",
       "updated_at": "2026-09-27T12:01:25Z",
       "browser_download_url": "https://github.com/Harry-kp/vortix/releases/download/v0.5.2/vortix-0.5.2-1.x86_64.rpm"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 1915064,
       "digest": "sha256:0787778e77c56e560dc9272f3448ce621337051392a4ef9f777196c916dfe231",
-      "download_count": 6,
+      "download_count": 13,
       "created_at": "2026-09-27T12:00:00Z",
       "updated_at": "2026-09-27T12:00:00Z",
       "browser_download_url": "https://github.com/Harry-kp/vortix/releases/download/v0.5.2/vortix-aarch64-apple-darwin.tar.xz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 2074028,
       "digest": "sha256:310dbdf0ff05378e87e2c97835bfc66cbb7c8aa451a0b237cfde6eaa2cc34d36",
-      "download_count": 6,
+      "download_count": 9,
       "created_at": "2026-09-27T12:00:01Z",
       "updated_at": "2026-09-27T12:00:01Z",
       "browser_download_url": "https://github.com/Harry-kp/vortix/releases/download/v0.5.2/vortix-aarch64-unknown-linux-musl.tar.xz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 53502,
       "digest": "sha256:4be62e5c24d8c3510a58cfad9afeaf65c889bd635c05b2acc714e0ceaae52c4e",
-      "download_count": 13,
+      "download_count": 20,
       "created_at": "2026-09-27T12:00:01Z",
       "updated_at": "2026-09-27T12:00:01Z",
       "browser_download_url": "https://github.com/Harry-kp/vortix/releases/download/v0.5.2/vortix-installer.sh"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 2042480,
       "digest": "sha256:8ece5c8fe8b37c73fe9b6db13e7aef90e60ac2dba78c15b2685bf8089c97d7fa",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-09-27T12:00:01Z",
       "updated_at": "2026-09-27T12:00:02Z",
       "browser_download_url": "https://github.com/Harry-kp/vortix/releases/download/v0.5.2/vortix-x86_64-apple-darwin.tar.xz"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 101,
       "digest": "sha256:5f42ca788c7998a6f9352f1698c125567e33ccf743dddce08694d55d80df1c9b",
-      "download_count": 1,
+      "download_count": 3,
       "created_at": "2026-09-27T12:00:02Z",
       "updated_at": "2026-09-27T12:00:02Z",
       "browser_download_url": "https://github.com/Harry-kp/vortix/releases/download/v0.5.2/vortix-x86_64-apple-darwin.tar.xz.sha256"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 2165792,
       "digest": "sha256:4e9145e80fea37ad492abc7392011dcbb8e6789c2ab8ba8b546ef8fa3f88cbaf",
-      "download_count": 23,
+      "download_count": 31,
       "created_at": "2026-09-27T12:00:02Z",
       "updated_at": "2026-09-27T12:00:02Z",
       "browser_download_url": "https://github.com/Harry-kp/vortix/releases/download/v0.5.2/vortix-x86_64-unknown-linux-gnu.tar.xz"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 2241396,
       "digest": "sha256:34214332b9a939baa51197532fc436ad05859e9b81dcefa4e0f8a9b6257e7b83",
-      "download_count": 19,
+      "download_count": 25,
       "created_at": "2026-09-27T12:00:02Z",
       "updated_at": "2026-09-27T12:00:02Z",
       "browser_download_url": "https://github.com/Harry-kp/vortix/releases/download/v0.5.2/vortix-x86_64-unknown-linux-musl.tar.xz"
