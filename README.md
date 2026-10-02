@@ -33,27 +33,27 @@ Total: **62,611** lines of code across **140** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.5.2` (2026-09-27)
-- **Last commit**: 2026-09-29
+- **Last commit**: 2026-10-01
 - **Assets in release**: 23
 
 ## Popularity
 
-- **Stars**: 703 · **Forks**: 31 · **Open issues**: 145 · **Contributors**: 10
+- **Stars**: 704 · **Forks**: 33 · **Open issues**: 149 · **Contributors**: 11
 
 ## Totals (cumulative)
 
-- **Releases**: 21 · **Merged PRs**: 186 · **Open PRs**: 2 · **Closed issues**: 130 · **Open issues**: 15 · **Commits**: 603
+- **Releases**: 21 · **Merged PRs**: 189 · **Open PRs**: 4 · **Closed issues**: 131 · **Open issues**: 18 · **Commits**: 608
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-01 | 3 | 67 | 2 | 14 | 5 | 297 |
-| last60d | 2026-08-02 | 3 | 86 | 2 | 15 | 5 | 318 |
-| 90d | 2026-07-03 | 4 | 97 | 2 | 15 | 7 | 331 |
-| last180d | 2026-04-04 | 11 | 133 | 2 | 22 | 7 | 380 |
-| 360d | 2025-10-06 | 21 | 186 | 2 | 130 | 15 | 556 |
-| last720d | 2024-10-11 | 21 | 186 | 2 | 130 | 15 | 603 |
+| 30d | 2026-09-02 | 3 | 68 | 4 | 15 | 8 | 302 |
+| last60d | 2026-08-03 | 3 | 88 | 4 | 16 | 8 | 323 |
+| 90d | 2026-07-04 | 4 | 100 | 4 | 16 | 10 | 336 |
+| last180d | 2026-04-05 | 10 | 136 | 4 | 23 | 10 | 385 |
+| 360d | 2025-10-07 | 21 | 189 | 4 | 131 | 18 | 561 |
+| last720d | 2024-10-12 | 21 | 189 | 4 | 131 | 18 | 608 |
 
 ## Release assets
 
@@ -92,4 +92,4 @@ Install metadata for vortix lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261001.yml` · 2026-10-01T06:30:28Z._
+_Snapshot: `data/card/261002.yml` · 2026-10-02T06:12:11Z._
