@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 2252996,
       "digest": "sha256:aac1e3b2a66b56b89ef44c87cd39b67188201ecbed6dc1942479fbe51b29aaa5",
-      "download_count": 21,
+      "download_count": 23,
       "created_at": "2026-10-03T13:15:51Z",
       "updated_at": "2026-10-03T13:15:51Z",
       "browser_download_url": "https://github.com/Harry-kp/vortix/releases/download/v0.5.4/vortix-x86_64-unknown-linux-musl.tar.xz"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 2884720,
       "digest": "sha256:cb3c1de0cc924c63b639f22a7aed20ca8151a1a2ae7cfa2c04ac4b9205d0e6aa",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-10-03T13:17:25Z",
       "updated_at": "2026-10-03T13:17:25Z",
       "browser_download_url": "https://github.com/Harry-kp/vortix/releases/download/v0.5.4/vortix_0.5.4_arm64.deb"
