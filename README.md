@@ -33,27 +33,27 @@ Total: **62,621** lines of code across **140** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.5.4` (2026-10-03)
-- **Last commit**: 2026-10-03
+- **Last commit**: 2026-10-12
 - **Assets in release**: 21
 
 ## Popularity
 
-- **Stars**: 708 · **Forks**: 34 · **Open issues**: 149 · **Contributors**: 12
+- **Stars**: 714 · **Forks**: 35 · **Open issues**: 149 · **Contributors**: 12
 
 ## Totals (cumulative)
 
-- **Releases**: 23 · **Merged PRs**: 200 · **Open PRs**: 2 · **Closed issues**: 134 · **Open issues**: 15 · **Commits**: 621
+- **Releases**: 23 · **Merged PRs**: 201 · **Open PRs**: 2 · **Closed issues**: 134 · **Open issues**: 15 · **Commits**: 622
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 5 | 72 | 2 | 18 | 4 | 169 |
-| last60d | 2026-08-13 | 5 | 91 | 2 | 18 | 5 | 332 |
-| 90d | 2026-07-14 | 6 | 107 | 2 | 19 | 7 | 340 |
-| last180d | 2026-04-15 | 12 | 144 | 2 | 24 | 7 | 396 |
-| 360d | 2025-10-17 | 23 | 200 | 2 | 134 | 15 | 574 |
-| last720d | 2024-10-22 | 23 | 200 | 2 | 134 | 15 | 621 |
+| 30d | 2026-09-13 | 5 | 73 | 2 | 18 | 4 | 0 |
+| last60d | 2026-08-14 | 5 | 92 | 2 | 18 | 5 | 0 |
+| 90d | 2026-07-15 | 6 | 108 | 2 | 19 | 7 | 0 |
+| last180d | 2026-04-16 | 12 | 145 | 2 | 24 | 7 | 0 |
+| 360d | 2025-10-18 | 23 | 201 | 2 | 134 | 15 | 0 |
+| last720d | 2024-10-23 | 23 | 201 | 2 | 134 | 15 | 622 |
 
 ## Release assets
 
@@ -90,4 +90,4 @@ Install metadata for vortix lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261012.yml` · 2026-10-12T06:30:18Z._
+_Snapshot: `data/card/261013.yml` · 2026-10-13T07:32:40Z._
