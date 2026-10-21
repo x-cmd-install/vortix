@@ -14,11 +14,11 @@ x install vortix
 
 ## Code insight
 
-Total: **62,621** lines of code across **140** files in the top 5 languages.
+Total: **62,689** lines of code across **140** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 60,260 | 2,357 | 5,787 | 112 |
+| Rust | 60,328 | 2,361 | 5,796 | 112 |
 | Sh | 1,890 | 275 | 235 | 17 |
 | Toml | 254 | 116 | 44 | 9 |
 | Json | 95 | 0 | 0 | 1 |
@@ -33,27 +33,27 @@ Total: **62,621** lines of code across **140** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.5.4` (2026-10-03)
-- **Last commit**: 2026-10-19
+- **Last commit**: 2026-10-20
 - **Assets in release**: 21
 
 ## Popularity
 
-- **Stars**: 720 · **Forks**: 34 · **Open issues**: 149 · **Contributors**: 12
+- **Stars**: 721 · **Forks**: 34 · **Open issues**: 149 · **Contributors**: 12
 
 ## Totals (cumulative)
 
-- **Releases**: 23 · **Merged PRs**: 202 · **Open PRs**: 2 · **Closed issues**: 134 · **Open issues**: 15 · **Commits**: 623
+- **Releases**: 23 · **Merged PRs**: 206 · **Open PRs**: 2 · **Closed issues**: 146 · **Open issues**: 3 · **Commits**: 627
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 5 | 68 | 2 | 18 | 4 | 140 |
-| last60d | 2026-08-21 | 5 | 88 | 2 | 18 | 5 | 333 |
-| 90d | 2026-07-22 | 5 | 103 | 2 | 19 | 5 | 340 |
-| last180d | 2026-04-23 | 12 | 145 | 2 | 24 | 7 | 396 |
-| 360d | 2025-10-25 | 23 | 202 | 2 | 134 | 15 | 576 |
-| last720d | 2024-10-30 | 23 | 202 | 2 | 134 | 15 | 623 |
+| 30d | 2026-09-21 | 5 | 67 | 2 | 20 | 2 | 144 |
+| last60d | 2026-08-22 | 5 | 92 | 2 | 21 | 2 | 337 |
+| 90d | 2026-07-23 | 5 | 107 | 2 | 22 | 2 | 344 |
+| last180d | 2026-04-24 | 12 | 149 | 2 | 28 | 3 | 400 |
+| 360d | 2025-10-26 | 23 | 206 | 2 | 146 | 3 | 580 |
+| last720d | 2024-10-31 | 23 | 206 | 2 | 146 | 3 | 627 |
 
 ## Release assets
 
@@ -90,4 +90,4 @@ Install metadata for vortix lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T05:18:06Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T05:12:47Z._
