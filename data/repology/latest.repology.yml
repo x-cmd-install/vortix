@@ -12,7 +12,7 @@
 - repo: homebrew
   srcname: vortix
   visiblename: vortix
-  version: 0.5.4
+  version: 0.5.5
   origversion: null
   status: newest
   summary: Terminal UI for WireGuard and OpenVPN with live telemetry and leak guarding
