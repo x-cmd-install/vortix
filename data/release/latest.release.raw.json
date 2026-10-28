@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 16488523,
       "digest": "sha256:d9e8d2429b46d5137470fac312db994c2f42136031aa0f020a6b29e2ac7e2ff6",
-      "download_count": 1,
+      "download_count": 3,
       "created_at": "2026-10-24T19:44:34Z",
       "updated_at": "2026-10-24T19:44:35Z",
       "browser_download_url": "https://github.com/Harry-kp/vortix/releases/download/v0.5.5/source.tar.gz"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 2182800,
       "digest": "sha256:6eb367c0bb5a795ffbb65996fa65ea1dee4dc0bf370d9d64e9601caa6d8e9380",
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2026-10-24T19:44:36Z",
       "updated_at": "2026-10-24T19:44:36Z",
       "browser_download_url": "https://github.com/Harry-kp/vortix/releases/download/v0.5.5/vortix-x86_64-unknown-linux-gnu.tar.xz"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 106,
       "digest": "sha256:922802e08e666519e380d3988b52cfa6d51f655154495ce9906fed0e2f82f17b",
-      "download_count": 4,
+      "download_count": 6,
       "created_at": "2026-10-24T19:44:35Z",
       "updated_at": "2026-10-24T19:44:36Z",
       "browser_download_url": "https://github.com/Harry-kp/vortix/releases/download/v0.5.5/vortix-x86_64-unknown-linux-gnu.tar.xz.sha256"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 2258192,
       "digest": "sha256:2dba491932a42ec4026f07575958c84bcbeb849142d5131c2a594d43df8d97b1",
-      "download_count": 14,
+      "download_count": 15,
       "created_at": "2026-10-24T19:44:36Z",
       "updated_at": "2026-10-24T19:44:36Z",
       "browser_download_url": "https://github.com/Harry-kp/vortix/releases/download/v0.5.5/vortix-x86_64-unknown-linux-musl.tar.xz"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 2928796,
       "digest": "sha256:f6e11e5d4d7eca17d7956130185d5c4f659725c5730303b40effa211e8076334",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-10-24T19:45:57Z",
       "updated_at": "2026-10-24T19:45:57Z",
       "browser_download_url": "https://github.com/Harry-kp/vortix/releases/download/v0.5.5/vortix_0.5.5_amd64.deb"
