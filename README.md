@@ -14,12 +14,12 @@ x install vortix
 
 ## Code insight
 
-Total: **65,141** lines of code across **142** files in the top 5 languages.
+Total: **65,313** lines of code across **142** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 62,740 | 2,432 | 5,971 | 114 |
-| Sh | 1,930 | 281 | 236 | 17 |
+| Rust | 62,835 | 2,433 | 5,977 | 114 |
+| Sh | 2,007 | 285 | 241 | 17 |
 | Toml | 254 | 116 | 44 | 9 |
 | Json | 95 | 0 | 0 | 1 |
 | Nix | 50 | 2 | 11 | 1 |
@@ -33,7 +33,7 @@ Total: **65,141** lines of code across **142** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.5.5` (2026-10-24)
-- **Last commit**: 2026-10-28
+- **Last commit**: 2026-10-31
 - **Assets in release**: 21
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **65,141** lines of code across **142** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 24 · **Merged PRs**: 216 · **Open PRs**: 2 · **Closed issues**: 146 · **Open issues**: 3 · **Commits**: 652
+- **Releases**: 24 · **Merged PRs**: 218 · **Open PRs**: 2 · **Closed issues**: 146 · **Open issues**: 3 · **Commits**: 655
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 3 | 25 | 1 | 0 | 0 | 42 |
-| last60d | 2026-09-01 | 6 | 97 | 2 | 21 | 2 | 349 |
-| 90d | 2026-08-02 | 6 | 116 | 2 | 22 | 2 | 368 |
-| last180d | 2026-05-04 | 13 | 157 | 2 | 28 | 3 | 424 |
-| 360d | 2025-11-05 | 24 | 216 | 2 | 146 | 3 | 605 |
-| last720d | 2024-11-10 | 24 | 216 | 2 | 146 | 3 | 652 |
+| 30d | 2026-10-02 | 3 | 26 | 1 | 0 | 0 | 34 |
+| last60d | 2026-09-02 | 6 | 97 | 2 | 21 | 2 | 326 |
+| 90d | 2026-08-03 | 6 | 117 | 2 | 22 | 2 | 370 |
+| last180d | 2026-05-05 | 13 | 159 | 2 | 28 | 3 | 426 |
+| 360d | 2025-11-06 | 24 | 218 | 2 | 146 | 3 | 608 |
+| last720d | 2024-11-11 | 24 | 218 | 2 | 146 | 3 | 655 |
 
 ## Release assets
 
@@ -99,4 +99,4 @@ Install metadata for vortix lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T06:11:02Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T06:37:27Z._
