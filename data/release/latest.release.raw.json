@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 53502,
       "digest": "sha256:a49e73801d3846e77166a1c8d95f9c9147b5e9a76db2c55965cc1557df3a01df",
-      "download_count": 9,
+      "download_count": 12,
       "created_at": "2026-10-24T19:44:35Z",
       "updated_at": "2026-10-24T19:44:35Z",
       "browser_download_url": "https://github.com/Harry-kp/vortix/releases/download/v0.5.5/vortix-installer.sh"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 2182800,
       "digest": "sha256:6eb367c0bb5a795ffbb65996fa65ea1dee4dc0bf370d9d64e9601caa6d8e9380",
-      "download_count": 16,
+      "download_count": 18,
       "created_at": "2026-10-24T19:44:36Z",
       "updated_at": "2026-10-24T19:44:36Z",
       "browser_download_url": "https://github.com/Harry-kp/vortix/releases/download/v0.5.5/vortix-x86_64-unknown-linux-gnu.tar.xz"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 2258192,
       "digest": "sha256:2dba491932a42ec4026f07575958c84bcbeb849142d5131c2a594d43df8d97b1",
-      "download_count": 21,
+      "download_count": 22,
       "created_at": "2026-10-24T19:44:36Z",
       "updated_at": "2026-10-24T19:44:36Z",
       "browser_download_url": "https://github.com/Harry-kp/vortix/releases/download/v0.5.5/vortix-x86_64-unknown-linux-musl.tar.xz"
@@ -798,13 +798,13 @@
   "body": "## Release Notes\n\n### Security\n\n- **TLS fixes in the address lookups.** The library that checks certificates for Vortix's public-IP and ISP lookups had four advisories (RUSTSEC-2026-0346 to 0349), and its certificate checker and root store two more (RUSTSEC-2026-0381, 0382). All are updated; nothing changes in how tunnels work. ([#398](https://github.com/Harry-kp/vortix/pull/398), [#400](https://github.com/Harry-kp/vortix/pull/400))\n\n### Fixed\n\n- **The dashboard no longer waits 20 s to start when a tunnel's server is unreachable.** With a full tunnel whose server had gone away, DNS went into the dead tunnel and Vortix waited out its timeouts before showing anything; `vortix status` and `vortix down` waited too. A server's last known address is now used after 2 s. ([#399](https://github.com/Harry-kp/vortix/pull/399))\n- **`vortix list` says `1 hour ago` and `1 day ago`,** not `1 hours ago`. ([#389](https://github.com/Harry-kp/vortix/pull/389))\n\n## Install vortix 0.5.5\n\n### Install prebuilt binaries via shell script\n\n```sh\ncurl --proto '=https' --tlsv1.2 -LsSf https://github.com/Harry-kp/vortix/releases/download/v0.5.5/vortix-installer.sh | sh\n```\n\n## Download vortix 0.5.5\n\n|  File  | Platform | Checksum |\n|--------|----------|----------|\n| [vortix-aarch64-apple-darwin.tar.xz](https://github.com/Harry-kp/vortix/releases/download/v0.5.5/vortix-aarch64-apple-darwin.tar.xz) | Apple Silicon macOS | [checksum](https://github.com/Harry-kp/vortix/releases/download/v0.5.5/vortix-aarch64-apple-darwin.tar.xz.sha256) |\n| [vortix-x86_64-apple-darwin.tar.xz](https://github.com/Harry-kp/vortix/releases/download/v0.5.5/vortix-x86_64-apple-darwin.tar.xz) | Intel macOS | [checksum](https://github.com/Harry-kp/vortix/releases/download/v0.5.5/vortix-x86_64-apple-darwin.tar.xz.sha256) |\n| [vortix-aarch64-unknown-linux-gnu.tar.xz](https://github.com/Harry-kp/vortix/releases/download/v0.5.5/vortix-aarch64-unknown-linux-gnu.tar.xz) | ARM64 Linux | [checksum](https://github.com/Harry-kp/vortix/releases/download/v0.5.5/vortix-aarch64-unknown-linux-gnu.tar.xz.sha256) |\n| [vortix-x86_64-unknown-linux-gnu.tar.xz](https://github.com/Harry-kp/vortix/releases/download/v0.5.5/vortix-x86_64-unknown-linux-gnu.tar.xz) | x64 Linux | [checksum](https://github.com/Harry-kp/vortix/releases/download/v0.5.5/vortix-x86_64-unknown-linux-gnu.tar.xz.sha256) |\n| [vortix-aarch64-unknown-linux-musl.tar.xz](https://github.com/Harry-kp/vortix/releases/download/v0.5.5/vortix-aarch64-unknown-linux-musl.tar.xz) | ARM64 MUSL Linux | [checksum](https://github.com/Harry-kp/vortix/releases/download/v0.5.5/vortix-aarch64-unknown-linux-musl.tar.xz.sha256) |\n| [vortix-x86_64-unknown-linux-musl.tar.xz](https://github.com/Harry-kp/vortix/releases/download/v0.5.5/vortix-x86_64-unknown-linux-musl.tar.xz) | x64 MUSL Linux | [checksum](https://github.com/Harry-kp/vortix/releases/download/v0.5.5/vortix-x86_64-unknown-linux-musl.tar.xz.sha256) |\n\n\n",
   "reactions": {
     "url": "https://api.github.com/repos/Harry-kp/vortix/releases/422944346/reactions",
-    "total_count": 1,
+    "total_count": 2,
     "+1": 0,
     "-1": 0,
     "laugh": 0,
     "hooray": 0,
     "confused": 0,
-    "heart": 1,
+    "heart": 2,
     "rocket": 0,
     "eyes": 0
   }
