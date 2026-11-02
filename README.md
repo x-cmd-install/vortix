@@ -14,13 +14,13 @@ x install vortix
 
 ## Code insight
 
-Total: **65,313** lines of code across **142** files in the top 5 languages.
+Total: **66,410** lines of code across **142** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 62,835 | 2,433 | 5,977 | 114 |
+| Rust | 63,930 | 2,454 | 6,049 | 114 |
 | Sh | 2,007 | 285 | 241 | 17 |
-| Toml | 254 | 116 | 44 | 9 |
+| Toml | 256 | 117 | 45 | 9 |
 | Json | 95 | 0 | 0 | 1 |
 | Nix | 50 | 2 | 11 | 1 |
 
@@ -32,63 +32,63 @@ Total: **65,313** lines of code across **142** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.5.5` (2026-10-24)
-- **Last commit**: 2026-10-31
+- **Latest**: `v0.6.0` (2026-11-01)
+- **Last commit**: 2026-11-02
 - **Assets in release**: 21
 
 ## Popularity
 
-- **Stars**: 726 · **Forks**: 34 · **Open issues**: 149 · **Contributors**: 12
+- **Stars**: 726 · **Forks**: 34 · **Open issues**: 150 · **Contributors**: 12
 
 ## Totals (cumulative)
 
-- **Releases**: 24 · **Merged PRs**: 218 · **Open PRs**: 2 · **Closed issues**: 146 · **Open issues**: 3 · **Commits**: 655
+- **Releases**: 25 · **Merged PRs**: 237 · **Open PRs**: 1 · **Closed issues**: 146 · **Open issues**: 4 · **Commits**: 682
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 3 | 26 | 1 | 0 | 0 | 34 |
-| last60d | 2026-09-02 | 6 | 97 | 2 | 21 | 2 | 326 |
-| 90d | 2026-08-03 | 6 | 117 | 2 | 22 | 2 | 370 |
-| last180d | 2026-05-05 | 13 | 159 | 2 | 28 | 3 | 426 |
-| 360d | 2025-11-06 | 24 | 218 | 2 | 146 | 3 | 608 |
-| last720d | 2024-11-11 | 24 | 218 | 2 | 146 | 3 | 655 |
+| 30d | 2026-10-03 | 4 | 36 | 0 | 0 | 1 | 61 |
+| last60d | 2026-09-03 | 7 | 116 | 1 | 21 | 3 | 353 |
+| 90d | 2026-08-04 | 7 | 136 | 1 | 22 | 3 | 397 |
+| last180d | 2026-05-06 | 14 | 178 | 1 | 28 | 4 | 453 |
+| 360d | 2025-11-07 | 25 | 237 | 1 | 146 | 4 | 635 |
+| last720d | 2024-11-12 | 25 | 237 | 1 | 146 | 4 | 682 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [dist-manifest.json](https://github.com/Harry-kp/vortix/releases/download/v0.5.5/dist-manifest.json) | 23.5 KiB | `other` |
-| [sha256.sum](https://github.com/Harry-kp/vortix/releases/download/v0.5.5/sha256.sum) | 706 B | `other` |
-| [source.tar.gz](https://github.com/Harry-kp/vortix/releases/download/v0.5.5/source.tar.gz) | 15.7 MiB | `native/unknown` |
-| [source.tar.gz.sha256](https://github.com/Harry-kp/vortix/releases/download/v0.5.5/source.tar.gz.sha256) | 81 B | `other` |
-| [vortix-0.5.5-1.aarch64.rpm](https://github.com/Harry-kp/vortix/releases/download/v0.5.5/vortix-0.5.5-1.aarch64.rpm) | 2.7 MiB | `runtime/rpm/aarch64` |
-| [vortix-0.5.5-1.x86_64.rpm](https://github.com/Harry-kp/vortix/releases/download/v0.5.5/vortix-0.5.5-1.x86_64.rpm) | 2.8 MiB | `runtime/rpm/x86_64` |
-| [vortix-aarch64-apple-darwin.tar.xz](https://github.com/Harry-kp/vortix/releases/download/v0.5.5/vortix-aarch64-apple-darwin.tar.xz) | 1.8 MiB | `native/darwin/arm64` |
-| [vortix-aarch64-apple-darwin.tar.xz.sha256](https://github.com/Harry-kp/vortix/releases/download/v0.5.5/vortix-aarch64-apple-darwin.tar.xz.sha256) | 102 B | `native/darwin/arm64` |
-| [vortix-aarch64-unknown-linux-gnu.tar.xz](https://github.com/Harry-kp/vortix/releases/download/v0.5.5/vortix-aarch64-unknown-linux-gnu.tar.xz) | 2.0 MiB | `native/linux/arm64/glibc` |
-| [vortix-aarch64-unknown-linux-gnu.tar.xz.sha256](https://github.com/Harry-kp/vortix/releases/download/v0.5.5/vortix-aarch64-unknown-linux-gnu.tar.xz.sha256) | 107 B | `native/linux/arm64/glibc` |
-| [vortix-aarch64-unknown-linux-musl.tar.xz](https://github.com/Harry-kp/vortix/releases/download/v0.5.5/vortix-aarch64-unknown-linux-musl.tar.xz) | 2.0 MiB | `native/linux/arm64/musl` |
-| [vortix-aarch64-unknown-linux-musl.tar.xz.sha256](https://github.com/Harry-kp/vortix/releases/download/v0.5.5/vortix-aarch64-unknown-linux-musl.tar.xz.sha256) | 108 B | `native/linux/arm64/musl` |
-| [vortix-installer.sh](https://github.com/Harry-kp/vortix/releases/download/v0.5.5/vortix-installer.sh) | 52.2 KiB | `other` |
-| [vortix-x86_64-apple-darwin.tar.xz](https://github.com/Harry-kp/vortix/releases/download/v0.5.5/vortix-x86_64-apple-darwin.tar.xz) | 2.0 MiB | `native/darwin/x64` |
-| [vortix-x86_64-apple-darwin.tar.xz.sha256](https://github.com/Harry-kp/vortix/releases/download/v0.5.5/vortix-x86_64-apple-darwin.tar.xz.sha256) | 101 B | `native/darwin/x64` |
-| [vortix-x86_64-unknown-linux-gnu.tar.xz](https://github.com/Harry-kp/vortix/releases/download/v0.5.5/vortix-x86_64-unknown-linux-gnu.tar.xz) | 2.1 MiB | `native/linux/x64/glibc` |
-| [vortix-x86_64-unknown-linux-gnu.tar.xz.sha256](https://github.com/Harry-kp/vortix/releases/download/v0.5.5/vortix-x86_64-unknown-linux-gnu.tar.xz.sha256) | 106 B | `native/linux/x64/glibc` |
-| [vortix-x86_64-unknown-linux-musl.tar.xz](https://github.com/Harry-kp/vortix/releases/download/v0.5.5/vortix-x86_64-unknown-linux-musl.tar.xz) | 2.2 MiB | `native/linux/x64/musl` |
-| [vortix-x86_64-unknown-linux-musl.tar.xz.sha256](https://github.com/Harry-kp/vortix/releases/download/v0.5.5/vortix-x86_64-unknown-linux-musl.tar.xz.sha256) | 107 B | `native/linux/x64/musl` |
-| [vortix_0.5.5_amd64.deb](https://github.com/Harry-kp/vortix/releases/download/v0.5.5/vortix_0.5.5_amd64.deb) | 2.8 MiB | `runtime/deb/amd64` |
-| [vortix_0.5.5_arm64.deb](https://github.com/Harry-kp/vortix/releases/download/v0.5.5/vortix_0.5.5_arm64.deb) | 2.8 MiB | `runtime/deb/arm64` |
+| [dist-manifest.json](https://github.com/Harry-kp/vortix/releases/download/v0.6.0/dist-manifest.json) | 23.8 KiB | `other` |
+| [sha256.sum](https://github.com/Harry-kp/vortix/releases/download/v0.6.0/sha256.sum) | 706 B | `other` |
+| [source.tar.gz](https://github.com/Harry-kp/vortix/releases/download/v0.6.0/source.tar.gz) | 15.8 MiB | `native/unknown` |
+| [source.tar.gz.sha256](https://github.com/Harry-kp/vortix/releases/download/v0.6.0/source.tar.gz.sha256) | 81 B | `other` |
+| [vortix-0.6.0-1.aarch64.rpm](https://github.com/Harry-kp/vortix/releases/download/v0.6.0/vortix-0.6.0-1.aarch64.rpm) | 2.8 MiB | `runtime/rpm/aarch64` |
+| [vortix-0.6.0-1.x86_64.rpm](https://github.com/Harry-kp/vortix/releases/download/v0.6.0/vortix-0.6.0-1.x86_64.rpm) | 2.9 MiB | `runtime/rpm/x86_64` |
+| [vortix-aarch64-apple-darwin.tar.xz](https://github.com/Harry-kp/vortix/releases/download/v0.6.0/vortix-aarch64-apple-darwin.tar.xz) | 1.9 MiB | `native/darwin/arm64` |
+| [vortix-aarch64-apple-darwin.tar.xz.sha256](https://github.com/Harry-kp/vortix/releases/download/v0.6.0/vortix-aarch64-apple-darwin.tar.xz.sha256) | 102 B | `native/darwin/arm64` |
+| [vortix-aarch64-unknown-linux-gnu.tar.xz](https://github.com/Harry-kp/vortix/releases/download/v0.6.0/vortix-aarch64-unknown-linux-gnu.tar.xz) | 2.0 MiB | `native/linux/arm64/glibc` |
+| [vortix-aarch64-unknown-linux-gnu.tar.xz.sha256](https://github.com/Harry-kp/vortix/releases/download/v0.6.0/vortix-aarch64-unknown-linux-gnu.tar.xz.sha256) | 107 B | `native/linux/arm64/glibc` |
+| [vortix-aarch64-unknown-linux-musl.tar.xz](https://github.com/Harry-kp/vortix/releases/download/v0.6.0/vortix-aarch64-unknown-linux-musl.tar.xz) | 2.1 MiB | `native/linux/arm64/musl` |
+| [vortix-aarch64-unknown-linux-musl.tar.xz.sha256](https://github.com/Harry-kp/vortix/releases/download/v0.6.0/vortix-aarch64-unknown-linux-musl.tar.xz.sha256) | 108 B | `native/linux/arm64/musl` |
+| [vortix-installer.sh](https://github.com/Harry-kp/vortix/releases/download/v0.6.0/vortix-installer.sh) | 52.2 KiB | `other` |
+| [vortix-x86_64-apple-darwin.tar.xz](https://github.com/Harry-kp/vortix/releases/download/v0.6.0/vortix-x86_64-apple-darwin.tar.xz) | 2.0 MiB | `native/darwin/x64` |
+| [vortix-x86_64-apple-darwin.tar.xz.sha256](https://github.com/Harry-kp/vortix/releases/download/v0.6.0/vortix-x86_64-apple-darwin.tar.xz.sha256) | 101 B | `native/darwin/x64` |
+| [vortix-x86_64-unknown-linux-gnu.tar.xz](https://github.com/Harry-kp/vortix/releases/download/v0.6.0/vortix-x86_64-unknown-linux-gnu.tar.xz) | 2.1 MiB | `native/linux/x64/glibc` |
+| [vortix-x86_64-unknown-linux-gnu.tar.xz.sha256](https://github.com/Harry-kp/vortix/releases/download/v0.6.0/vortix-x86_64-unknown-linux-gnu.tar.xz.sha256) | 106 B | `native/linux/x64/glibc` |
+| [vortix-x86_64-unknown-linux-musl.tar.xz](https://github.com/Harry-kp/vortix/releases/download/v0.6.0/vortix-x86_64-unknown-linux-musl.tar.xz) | 2.2 MiB | `native/linux/x64/musl` |
+| [vortix-x86_64-unknown-linux-musl.tar.xz.sha256](https://github.com/Harry-kp/vortix/releases/download/v0.6.0/vortix-x86_64-unknown-linux-musl.tar.xz.sha256) | 107 B | `native/linux/x64/musl` |
+| [vortix_0.6.0_amd64.deb](https://github.com/Harry-kp/vortix/releases/download/v0.6.0/vortix_0.6.0_amd64.deb) | 2.9 MiB | `runtime/deb/amd64` |
+| [vortix_0.6.0_arm64.deb](https://github.com/Harry-kp/vortix/releases/download/v0.6.0/vortix_0.6.0_arm64.deb) | 2.8 MiB | `runtime/deb/arm64` |
 
 ## Distribution status
 
-Reported by **7** distros on [repology.org](https://repology.org/project/vortix). **1** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
+Reported by **5** distros on [repology.org](https://repology.org/project/vortix). **1** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `0.4.3` | ⚠️ outdated |
-| Homebrew | `0.5.5` | ✅ latest |
+| Homebrew | `0.6.0` | ✅ latest |
 
 ## Improve this data
 
@@ -99,4 +99,4 @@ Install metadata for vortix lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T06:37:27Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T06:43:26Z._
