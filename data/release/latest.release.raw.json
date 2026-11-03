@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 1991412,
       "digest": "sha256:23d9f479851c93e367f6a9c43f647fd5ad14d4b8455b8458e9dcc8c9e8fb33cf",
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2026-11-01T20:37:01Z",
       "updated_at": "2026-11-01T20:37:02Z",
       "browser_download_url": "https://github.com/Harry-kp/vortix/releases/download/v0.6.0/vortix-aarch64-apple-darwin.tar.xz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 53502,
       "digest": "sha256:62d5bc975a634fe355b2d86eb2473a38b4f0b83067419211eeaaba2536f378ef",
-      "download_count": 7,
+      "download_count": 10,
       "created_at": "2026-11-01T20:37:02Z",
       "updated_at": "2026-11-01T20:37:03Z",
       "browser_download_url": "https://github.com/Harry-kp/vortix/releases/download/v0.6.0/vortix-installer.sh"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 2252252,
       "digest": "sha256:1efc66a1f2b5887a4a3dc895ed8ba2b8e6f2907136bdac6493295c18a9f7eeb2",
-      "download_count": 7,
+      "download_count": 15,
       "created_at": "2026-11-01T20:37:03Z",
       "updated_at": "2026-11-01T20:37:03Z",
       "browser_download_url": "https://github.com/Harry-kp/vortix/releases/download/v0.6.0/vortix-x86_64-unknown-linux-gnu.tar.xz"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 2329412,
       "digest": "sha256:a9357b8965904dbec28d84361b1c17aec531815a4ea4c8ca6a5e37cdee4b3b96",
-      "download_count": 5,
+      "download_count": 9,
       "created_at": "2026-11-01T20:37:03Z",
       "updated_at": "2026-11-01T20:37:03Z",
       "browser_download_url": "https://github.com/Harry-kp/vortix/releases/download/v0.6.0/vortix-x86_64-unknown-linux-musl.tar.xz"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 3025834,
       "digest": "sha256:3bd35d768d5400d2edc6139fb6fb342d74c1af1599e250031b709e7865e8b879",
-      "download_count": 2,
+      "download_count": 4,
       "created_at": "2026-11-01T20:38:32Z",
       "updated_at": "2026-11-01T20:38:32Z",
       "browser_download_url": "https://github.com/Harry-kp/vortix/releases/download/v0.6.0/vortix_0.6.0_amd64.deb"
@@ -795,5 +795,17 @@
   ],
   "tarball_url": "https://api.github.com/repos/Harry-kp/vortix/tarball/v0.6.0",
   "zipball_url": "https://api.github.com/repos/Harry-kp/vortix/zipball/v0.6.0",
-  "body": "## Release Notes\n\n![Vortix 0.6: add a NetBird network, sign in, see its peers](https://raw.githubusercontent.com/Harry-kp/vortix/main/assets/netbird.gif)\n\nAnnouncement and questions: https://github.com/Harry-kp/vortix/discussions/430\n\n### Highlights\n\n- **NetBird, run by Vortix.** Press `i` and type `netbird` (or `netbird https://your.server`); sign in in your browser, or from any device over SSH. Same keys, kill switch, CLI and `--json` as every other tunnel. Run it beside your own WireGuard or OpenVPN: company addresses go through NetBird, the internet through your VPN. ([#405](https://github.com/Harry-kp/vortix/pull/405), [#413](https://github.com/Harry-kp/vortix/pull/413))\n- **Routes and peers on the back of Details** (`F2`, `f`), for every VPN. ([#421](https://github.com/Harry-kp/vortix/pull/421))\n- **Select to copy, click to open links** in the TUI. ([#412](https://github.com/Harry-kp/vortix/pull/412), [#423](https://github.com/Harry-kp/vortix/pull/423))\n\n### Fixed\n\n- **No false \"matches the pre-VPN address\" warning on split tunnels.** ([#409](https://github.com/Harry-kp/vortix/pull/409))\n\n### Changed\n\n- **`i` is now \"Add a VPN\";** Details' back shows routes and peers instead of Health. ([#413](https://github.com/Harry-kp/vortix/pull/413), [#421](https://github.com/Harry-kp/vortix/pull/421))\n\n## Install vortix 0.6.0\n\n### Install prebuilt binaries via shell script\n\n```sh\ncurl --proto '=https' --tlsv1.2 -LsSf https://github.com/Harry-kp/vortix/releases/download/v0.6.0/vortix-installer.sh | sh\n```\n\n## Download vortix 0.6.0\n\n|  File  | Platform | Checksum |\n|--------|----------|----------|\n| [vortix-aarch64-apple-darwin.tar.xz](https://github.com/Harry-kp/vortix/releases/download/v0.6.0/vortix-aarch64-apple-darwin.tar.xz) | Apple Silicon macOS | [checksum](https://github.com/Harry-kp/vortix/releases/download/v0.6.0/vortix-aarch64-apple-darwin.tar.xz.sha256) |\n| [vortix-x86_64-apple-darwin.tar.xz](https://github.com/Harry-kp/vortix/releases/download/v0.6.0/vortix-x86_64-apple-darwin.tar.xz) | Intel macOS | [checksum](https://github.com/Harry-kp/vortix/releases/download/v0.6.0/vortix-x86_64-apple-darwin.tar.xz.sha256) |\n| [vortix-aarch64-unknown-linux-gnu.tar.xz](https://github.com/Harry-kp/vortix/releases/download/v0.6.0/vortix-aarch64-unknown-linux-gnu.tar.xz) | ARM64 Linux | [checksum](https://github.com/Harry-kp/vortix/releases/download/v0.6.0/vortix-aarch64-unknown-linux-gnu.tar.xz.sha256) |\n| [vortix-x86_64-unknown-linux-gnu.tar.xz](https://github.com/Harry-kp/vortix/releases/download/v0.6.0/vortix-x86_64-unknown-linux-gnu.tar.xz) | x64 Linux | [checksum](https://github.com/Harry-kp/vortix/releases/download/v0.6.0/vortix-x86_64-unknown-linux-gnu.tar.xz.sha256) |\n| [vortix-aarch64-unknown-linux-musl.tar.xz](https://github.com/Harry-kp/vortix/releases/download/v0.6.0/vortix-aarch64-unknown-linux-musl.tar.xz) | ARM64 MUSL Linux | [checksum](https://github.com/Harry-kp/vortix/releases/download/v0.6.0/vortix-aarch64-unknown-linux-musl.tar.xz.sha256) |\n| [vortix-x86_64-unknown-linux-musl.tar.xz](https://github.com/Harry-kp/vortix/releases/download/v0.6.0/vortix-x86_64-unknown-linux-musl.tar.xz) | x64 MUSL Linux | [checksum](https://github.com/Harry-kp/vortix/releases/download/v0.6.0/vortix-x86_64-unknown-linux-musl.tar.xz.sha256) |\n\n\n\n\n"
+  "body": "## Release Notes\n\n![Vortix 0.6: add a NetBird network, sign in, see its peers](https://raw.githubusercontent.com/Harry-kp/vortix/main/assets/netbird.gif)\n\nAnnouncement and questions: https://github.com/Harry-kp/vortix/discussions/430\n\n### Highlights\n\n- **NetBird, run by Vortix.** Press `i` and type `netbird` (or `netbird https://your.server`); sign in in your browser, or from any device over SSH. Same keys, kill switch, CLI and `--json` as every other tunnel. Run it beside your own WireGuard or OpenVPN: company addresses go through NetBird, the internet through your VPN. ([#405](https://github.com/Harry-kp/vortix/pull/405), [#413](https://github.com/Harry-kp/vortix/pull/413))\n- **Routes and peers on the back of Details** (`F2`, `f`), for every VPN. ([#421](https://github.com/Harry-kp/vortix/pull/421))\n- **Select to copy, click to open links** in the TUI. ([#412](https://github.com/Harry-kp/vortix/pull/412), [#423](https://github.com/Harry-kp/vortix/pull/423))\n\n### Fixed\n\n- **No false \"matches the pre-VPN address\" warning on split tunnels.** ([#409](https://github.com/Harry-kp/vortix/pull/409))\n\n### Changed\n\n- **`i` is now \"Add a VPN\";** Details' back shows routes and peers instead of Health. ([#413](https://github.com/Harry-kp/vortix/pull/413), [#421](https://github.com/Harry-kp/vortix/pull/421))\n\n## Install vortix 0.6.0\n\n### Install prebuilt binaries via shell script\n\n```sh\ncurl --proto '=https' --tlsv1.2 -LsSf https://github.com/Harry-kp/vortix/releases/download/v0.6.0/vortix-installer.sh | sh\n```\n\n## Download vortix 0.6.0\n\n|  File  | Platform | Checksum |\n|--------|----------|----------|\n| [vortix-aarch64-apple-darwin.tar.xz](https://github.com/Harry-kp/vortix/releases/download/v0.6.0/vortix-aarch64-apple-darwin.tar.xz) | Apple Silicon macOS | [checksum](https://github.com/Harry-kp/vortix/releases/download/v0.6.0/vortix-aarch64-apple-darwin.tar.xz.sha256) |\n| [vortix-x86_64-apple-darwin.tar.xz](https://github.com/Harry-kp/vortix/releases/download/v0.6.0/vortix-x86_64-apple-darwin.tar.xz) | Intel macOS | [checksum](https://github.com/Harry-kp/vortix/releases/download/v0.6.0/vortix-x86_64-apple-darwin.tar.xz.sha256) |\n| [vortix-aarch64-unknown-linux-gnu.tar.xz](https://github.com/Harry-kp/vortix/releases/download/v0.6.0/vortix-aarch64-unknown-linux-gnu.tar.xz) | ARM64 Linux | [checksum](https://github.com/Harry-kp/vortix/releases/download/v0.6.0/vortix-aarch64-unknown-linux-gnu.tar.xz.sha256) |\n| [vortix-x86_64-unknown-linux-gnu.tar.xz](https://github.com/Harry-kp/vortix/releases/download/v0.6.0/vortix-x86_64-unknown-linux-gnu.tar.xz) | x64 Linux | [checksum](https://github.com/Harry-kp/vortix/releases/download/v0.6.0/vortix-x86_64-unknown-linux-gnu.tar.xz.sha256) |\n| [vortix-aarch64-unknown-linux-musl.tar.xz](https://github.com/Harry-kp/vortix/releases/download/v0.6.0/vortix-aarch64-unknown-linux-musl.tar.xz) | ARM64 MUSL Linux | [checksum](https://github.com/Harry-kp/vortix/releases/download/v0.6.0/vortix-aarch64-unknown-linux-musl.tar.xz.sha256) |\n| [vortix-x86_64-unknown-linux-musl.tar.xz](https://github.com/Harry-kp/vortix/releases/download/v0.6.0/vortix-x86_64-unknown-linux-musl.tar.xz) | x64 MUSL Linux | [checksum](https://github.com/Harry-kp/vortix/releases/download/v0.6.0/vortix-x86_64-unknown-linux-musl.tar.xz.sha256) |\n\n\n\n\n",
+  "reactions": {
+    "url": "https://api.github.com/repos/Harry-kp/vortix/releases/430842023/reactions",
+    "total_count": 2,
+    "+1": 0,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 1,
+    "confused": 0,
+    "heart": 1,
+    "rocket": 0,
+    "eyes": 0
+  }
 }
