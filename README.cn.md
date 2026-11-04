@@ -2,7 +2,7 @@
 
 [English version](./README.md)
 
-Terminal UI for WireGuard and OpenVPN with multi-tunnel control, real-time telemetry, and leak guarding.
+VPN terminal UI (TUI) for WireGuard and OpenVPN with multi-tunnel control, real-time telemetry, and leak guarding.
 
 [![x-cmd/install — vortix Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/vortix.svg?lang=zh)](https://x-cmd.com/install/vortix)
 
@@ -14,11 +14,11 @@ x install vortix
 
 ## 代码洞察
 
-合计: **66,410** 行代码（覆盖前 5 种语言、共 **142** 个文件）。
+合计: **66,538** 行代码（覆盖前 5 种语言、共 **142** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 63,930 | 2,454 | 6,049 | 114 |
+| Rust | 64,058 | 2,449 | 6,056 | 114 |
 | Sh | 2,007 | 285 | 241 | 17 |
 | Toml | 256 | 117 | 45 | 9 |
 | Json | 95 | 0 | 0 | 1 |
@@ -33,27 +33,27 @@ x install vortix
 ## 发布
 
 - **最新版本**: `v0.6.0` (2026-11-01)
-- **最近提交**: 2026-11-02
+- **最近提交**: 2026-11-03
 - **Release 含资产**: 21 个
 
 ## 流行度
 
-- **Star**: 728 · **Fork**: 35 · **开放 issue**: 150 · **贡献者**: 12
+- **Star**: 728 · **Fork**: 35 · **开放 issue**: 151 · **贡献者**: 12
 
 ## 累计统计
 
-- **发布数**: 25 · **已合并 PR**: 237 · **开放 PR**: 1 · **已关闭 issue**: 146 · **开放 issue**: 4 · **提交数**: 682
+- **发布数**: 25 · **已合并 PR**: 238 · **开放 PR**: 2 · **已关闭 issue**: 147 · **开放 issue**: 4 · **提交数**: 684
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 2 | 36 | 0 | 0 | 1 | 61 |
-| last60d | 2026-09-04 | 7 | 116 | 1 | 21 | 3 | 353 |
-| 90d | 2026-08-05 | 7 | 136 | 1 | 22 | 3 | 397 |
-| last180d | 2026-05-07 | 14 | 178 | 1 | 28 | 4 | 453 |
-| 360d | 2025-11-08 | 25 | 237 | 1 | 146 | 4 | 635 |
-| last720d | 2024-11-13 | 25 | 237 | 1 | 146 | 4 | 682 |
+| 30d | 2026-10-05 | 2 | 37 | 1 | 1 | 1 | 63 |
+| last60d | 2026-09-05 | 7 | 117 | 2 | 22 | 3 | 355 |
+| 90d | 2026-08-06 | 7 | 137 | 2 | 22 | 3 | 399 |
+| last180d | 2026-05-08 | 14 | 179 | 2 | 29 | 4 | 455 |
+| 360d | 2025-11-09 | 25 | 238 | 2 | 147 | 4 | 637 |
+| last720d | 2024-11-14 | 25 | 238 | 2 | 147 | 4 | 684 |
 
 ## Release 资产
 
@@ -99,4 +99,4 @@ vortix 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261103.yml` · 2026-11-03T07:36:53Z._
+_数据快照: `data/card/261104.yml` · 2026-11-04T06:55:12Z._
