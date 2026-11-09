@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 107,
       "digest": "sha256:4158acc7dcc14acaaf750dbd3f7ba4d6a8033b66a59802532c46b82843f2eea5",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-11-01T20:37:02Z",
       "updated_at": "2026-11-01T20:37:02Z",
       "browser_download_url": "https://github.com/Harry-kp/vortix/releases/download/v0.6.0/vortix-aarch64-unknown-linux-gnu.tar.xz.sha256"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 53502,
       "digest": "sha256:62d5bc975a634fe355b2d86eb2473a38b4f0b83067419211eeaaba2536f378ef",
-      "download_count": 18,
+      "download_count": 21,
       "created_at": "2026-11-01T20:37:02Z",
       "updated_at": "2026-11-01T20:37:03Z",
       "browser_download_url": "https://github.com/Harry-kp/vortix/releases/download/v0.6.0/vortix-installer.sh"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 2252252,
       "digest": "sha256:1efc66a1f2b5887a4a3dc895ed8ba2b8e6f2907136bdac6493295c18a9f7eeb2",
-      "download_count": 27,
+      "download_count": 32,
       "created_at": "2026-11-01T20:37:03Z",
       "updated_at": "2026-11-01T20:37:03Z",
       "browser_download_url": "https://github.com/Harry-kp/vortix/releases/download/v0.6.0/vortix-x86_64-unknown-linux-gnu.tar.xz"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 106,
       "digest": "sha256:104ae5a331be40d5cf63c2a997a4c6ba2572fffcd62d93439f4cb039cb90a3e9",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-11-01T20:37:03Z",
       "updated_at": "2026-11-01T20:37:03Z",
       "browser_download_url": "https://github.com/Harry-kp/vortix/releases/download/v0.6.0/vortix-x86_64-unknown-linux-gnu.tar.xz.sha256"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 2329412,
       "digest": "sha256:a9357b8965904dbec28d84361b1c17aec531815a4ea4c8ca6a5e37cdee4b3b96",
-      "download_count": 20,
+      "download_count": 21,
       "created_at": "2026-11-01T20:37:03Z",
       "updated_at": "2026-11-01T20:37:03Z",
       "browser_download_url": "https://github.com/Harry-kp/vortix/releases/download/v0.6.0/vortix-x86_64-unknown-linux-musl.tar.xz"
