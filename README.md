@@ -38,7 +38,7 @@ Total: **66,538** lines of code across **142** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 763 · **Forks**: 36 · **Open issues**: 151 · **Contributors**: 12
+- **Stars**: 765 · **Forks**: 36 · **Open issues**: 151 · **Contributors**: 12
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **66,538** lines of code across **142** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 2 | 36 | 2 | 1 | 1 | 62 |
-| last60d | 2026-09-12 | 7 | 110 | 3 | 21 | 3 | 281 |
-| 90d | 2026-08-13 | 7 | 129 | 3 | 22 | 3 | 397 |
-| last180d | 2026-05-15 | 14 | 178 | 3 | 29 | 4 | 454 |
-| 360d | 2025-11-16 | 25 | 238 | 3 | 147 | 4 | 637 |
-| last720d | 2024-11-21 | 25 | 238 | 3 | 147 | 4 | 684 |
+| 30d | 2026-10-13 | 2 | 36 | 2 | 1 | 1 | 62 |
+| last60d | 2026-09-13 | 7 | 110 | 3 | 21 | 3 | 281 |
+| 90d | 2026-08-14 | 7 | 129 | 3 | 22 | 3 | 397 |
+| last180d | 2026-05-16 | 14 | 178 | 3 | 29 | 4 | 454 |
+| 360d | 2025-11-17 | 25 | 238 | 3 | 147 | 4 | 637 |
+| last720d | 2024-11-22 | 25 | 238 | 3 | 147 | 4 | 684 |
 
 ## Release assets
 
@@ -99,4 +99,4 @@ Install metadata for vortix lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261111.yml` · 2026-11-11T07:07:33Z._
+_Snapshot: `data/card/261112.yml` · 2026-11-12T08:07:27Z._
