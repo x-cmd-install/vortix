@@ -48,12 +48,12 @@ Total: **66,538** lines of code across **142** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 2 | 36 | 2 | 1 | 4 | 62 |
-| last60d | 2026-09-14 | 7 | 107 | 3 | 21 | 6 | 281 |
-| 90d | 2026-08-15 | 7 | 129 | 3 | 22 | 6 | 397 |
-| last180d | 2026-05-17 | 14 | 178 | 3 | 29 | 7 | 454 |
-| 360d | 2025-11-18 | 25 | 238 | 3 | 147 | 7 | 637 |
-| last720d | 2024-11-23 | 25 | 238 | 3 | 147 | 7 | 684 |
+| 30d | 2026-10-15 | 2 | 36 | 2 | 1 | 4 | 62 |
+| last60d | 2026-09-15 | 7 | 107 | 3 | 21 | 6 | 281 |
+| 90d | 2026-08-16 | 7 | 129 | 3 | 22 | 6 | 397 |
+| last180d | 2026-05-18 | 14 | 177 | 3 | 29 | 7 | 454 |
+| 360d | 2025-11-19 | 25 | 238 | 3 | 147 | 7 | 637 |
+| last720d | 2024-11-24 | 25 | 238 | 3 | 147 | 7 | 684 |
 
 ## Release assets
 
@@ -99,4 +99,4 @@ Install metadata for vortix lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T07:23:47Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T07:08:33Z._
