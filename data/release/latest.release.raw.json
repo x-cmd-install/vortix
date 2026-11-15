@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 53502,
       "digest": "sha256:62d5bc975a634fe355b2d86eb2473a38b4f0b83067419211eeaaba2536f378ef",
-      "download_count": 24,
+      "download_count": 25,
       "created_at": "2026-11-01T20:37:02Z",
       "updated_at": "2026-11-01T20:37:03Z",
       "browser_download_url": "https://github.com/Harry-kp/vortix/releases/download/v0.6.0/vortix-installer.sh"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 2329412,
       "digest": "sha256:a9357b8965904dbec28d84361b1c17aec531815a4ea4c8ca6a5e37cdee4b3b96",
-      "download_count": 33,
+      "download_count": 34,
       "created_at": "2026-11-01T20:37:03Z",
       "updated_at": "2026-11-01T20:37:03Z",
       "browser_download_url": "https://github.com/Harry-kp/vortix/releases/download/v0.6.0/vortix-x86_64-unknown-linux-musl.tar.xz"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 3025834,
       "digest": "sha256:3bd35d768d5400d2edc6139fb6fb342d74c1af1599e250031b709e7865e8b879",
-      "download_count": 16,
+      "download_count": 17,
       "created_at": "2026-11-01T20:38:32Z",
       "updated_at": "2026-11-01T20:38:32Z",
       "browser_download_url": "https://github.com/Harry-kp/vortix/releases/download/v0.6.0/vortix_0.6.0_amd64.deb"
