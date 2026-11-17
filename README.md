@@ -2,7 +2,7 @@
 
 [中文版本](./README.cn.md)
 
-VPN terminal UI (TUI) for WireGuard and OpenVPN with multi-tunnel control, real-time telemetry, and leak guarding.
+VPN terminal UI (TUI) for WireGuard and OpenVPN with multi-tunnel control, real-time telemetry, and a kill switch.
 
 [![x-cmd/install — vortix Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/vortix.svg)](https://x-cmd.com/install/vortix)
 
@@ -27,7 +27,7 @@ Total: **66,538** lines of code across **142** files in the top 5 languages.
 ## Source
 
 - **Upstream**: <https://github.com/Harry-kp/vortix>
-- **Homepage**: <https://github.com/Harry-kp/vortix>
+- **Homepage**: <https://crates.io/crates/vortix>
 - **License**: MIT
 
 ## Release
@@ -38,22 +38,22 @@ Total: **66,538** lines of code across **142** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 775 · **Forks**: 36 · **Open issues**: 155 · **Contributors**: 12
+- **Stars**: 785 · **Forks**: 36 · **Open issues**: 158 · **Contributors**: 12
 
 ## Totals (cumulative)
 
-- **Releases**: 25 · **Merged PRs**: 241 · **Open PRs**: 2 · **Closed issues**: 147 · **Open issues**: 8 · **Commits**: 687
+- **Releases**: 25 · **Merged PRs**: 243 · **Open PRs**: 3 · **Closed issues**: 147 · **Open issues**: 11 · **Commits**: 689
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 2 | 39 | 1 | 1 | 5 | 60 |
-| last60d | 2026-09-17 | 7 | 110 | 2 | 21 | 7 | 206 |
-| 90d | 2026-08-18 | 7 | 129 | 2 | 22 | 7 | 397 |
-| last180d | 2026-05-20 | 14 | 180 | 2 | 29 | 8 | 447 |
-| 360d | 2025-11-21 | 25 | 241 | 2 | 147 | 8 | 640 |
-| last720d | 2024-11-26 | 25 | 241 | 2 | 147 | 8 | 687 |
+| 30d | 2026-10-18 | 2 | 41 | 2 | 1 | 8 | 62 |
+| last60d | 2026-09-18 | 7 | 111 | 3 | 21 | 10 | 208 |
+| 90d | 2026-08-19 | 7 | 131 | 3 | 22 | 10 | 399 |
+| last180d | 2026-05-21 | 14 | 182 | 3 | 29 | 11 | 449 |
+| 360d | 2025-11-22 | 25 | 243 | 3 | 147 | 11 | 642 |
+| last720d | 2024-11-27 | 25 | 243 | 3 | 147 | 11 | 689 |
 
 ## Release assets
 
@@ -99,4 +99,4 @@ Install metadata for vortix lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T07:25:53Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T09:49:19Z._

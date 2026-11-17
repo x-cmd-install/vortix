@@ -2,7 +2,7 @@
 
 [English version](./README.md)
 
-VPN terminal UI (TUI) for WireGuard and OpenVPN with multi-tunnel control, real-time telemetry, and leak guarding.
+VPN terminal UI (TUI) for WireGuard and OpenVPN with multi-tunnel control, real-time telemetry, and a kill switch.
 
 [![x-cmd/install — vortix Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/vortix.svg?lang=zh)](https://x-cmd.com/install/vortix)
 
@@ -27,7 +27,7 @@ x install vortix
 ## 源代码
 
 - **上游仓库**: <https://github.com/Harry-kp/vortix>
-- **官网**: <https://github.com/Harry-kp/vortix>
+- **官网**: <https://crates.io/crates/vortix>
 - **许可证**: MIT
 
 ## 发布
@@ -38,22 +38,22 @@ x install vortix
 
 ## 流行度
 
-- **Star**: 775 · **Fork**: 36 · **开放 issue**: 155 · **贡献者**: 12
+- **Star**: 785 · **Fork**: 36 · **开放 issue**: 158 · **贡献者**: 12
 
 ## 累计统计
 
-- **发布数**: 25 · **已合并 PR**: 241 · **开放 PR**: 2 · **已关闭 issue**: 147 · **开放 issue**: 8 · **提交数**: 687
+- **发布数**: 25 · **已合并 PR**: 243 · **开放 PR**: 3 · **已关闭 issue**: 147 · **开放 issue**: 11 · **提交数**: 689
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 2 | 39 | 1 | 1 | 5 | 60 |
-| last60d | 2026-09-17 | 7 | 110 | 2 | 21 | 7 | 206 |
-| 90d | 2026-08-18 | 7 | 129 | 2 | 22 | 7 | 397 |
-| last180d | 2026-05-20 | 14 | 180 | 2 | 29 | 8 | 447 |
-| 360d | 2025-11-21 | 25 | 241 | 2 | 147 | 8 | 640 |
-| last720d | 2024-11-26 | 25 | 241 | 2 | 147 | 8 | 687 |
+| 30d | 2026-10-18 | 2 | 41 | 2 | 1 | 8 | 62 |
+| last60d | 2026-09-18 | 7 | 111 | 3 | 21 | 10 | 208 |
+| 90d | 2026-08-19 | 7 | 131 | 3 | 22 | 10 | 399 |
+| last180d | 2026-05-21 | 14 | 182 | 3 | 29 | 11 | 449 |
+| 360d | 2025-11-22 | 25 | 243 | 3 | 147 | 11 | 642 |
+| last720d | 2024-11-27 | 25 | 243 | 3 | 147 | 11 | 689 |
 
 ## Release 资产
 
@@ -99,4 +99,4 @@ vortix 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261116.yml` · 2026-11-16T07:25:53Z._
+_数据快照: `data/card/261117.yml` · 2026-11-17T09:49:19Z._
