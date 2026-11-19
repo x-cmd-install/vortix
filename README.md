@@ -14,12 +14,12 @@ x install vortix
 
 ## Code insight
 
-Total: **66,538** lines of code across **142** files in the top 5 languages.
+Total: **66,650** lines of code across **142** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 64,058 | 2,449 | 6,056 | 114 |
-| Sh | 2,007 | 285 | 241 | 17 |
+| Rust | 64,151 | 2,453 | 6,066 | 114 |
+| Sh | 2,026 | 287 | 242 | 17 |
 | Toml | 256 | 117 | 45 | 9 |
 | Json | 95 | 0 | 0 | 1 |
 | Nix | 50 | 2 | 11 | 1 |
@@ -33,27 +33,27 @@ Total: **66,538** lines of code across **142** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.6.0` (2026-11-01)
-- **Last commit**: 2026-11-16
+- **Last commit**: 2026-11-17
 - **Assets in release**: 21
 
 ## Popularity
 
-- **Stars**: 785 · **Forks**: 36 · **Open issues**: 158 · **Contributors**: 12
+- **Stars**: 785 · **Forks**: 36 · **Open issues**: 158 · **Contributors**: 13
 
 ## Totals (cumulative)
 
-- **Releases**: 25 · **Merged PRs**: 243 · **Open PRs**: 3 · **Closed issues**: 147 · **Open issues**: 11 · **Commits**: 689
+- **Releases**: 25 · **Merged PRs**: 245 · **Open PRs**: 3 · **Closed issues**: 148 · **Open issues**: 10 · **Commits**: 694
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 2 | 41 | 2 | 1 | 8 | 62 |
-| last60d | 2026-09-18 | 7 | 111 | 3 | 21 | 10 | 208 |
-| 90d | 2026-08-19 | 7 | 131 | 3 | 22 | 10 | 399 |
-| last180d | 2026-05-21 | 14 | 182 | 3 | 29 | 11 | 449 |
-| 360d | 2025-11-22 | 25 | 243 | 3 | 147 | 11 | 642 |
-| last720d | 2024-11-27 | 25 | 243 | 3 | 147 | 11 | 689 |
+| 30d | 2026-10-20 | 2 | 38 | 2 | 2 | 7 | 67 |
+| last60d | 2026-09-20 | 7 | 111 | 3 | 22 | 9 | 213 |
+| 90d | 2026-08-21 | 7 | 131 | 3 | 23 | 9 | 404 |
+| last180d | 2026-05-23 | 14 | 184 | 3 | 30 | 10 | 454 |
+| 360d | 2025-11-24 | 25 | 245 | 3 | 148 | 10 | 647 |
+| last720d | 2024-11-29 | 25 | 245 | 3 | 148 | 10 | 694 |
 
 ## Release assets
 
@@ -99,4 +99,4 @@ Install metadata for vortix lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T09:49:19Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T09:24:01Z._
