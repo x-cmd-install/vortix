@@ -38,7 +38,7 @@ Total: **66,650** lines of code across **142** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 803 · **Forks**: 36 · **Open issues**: 158 · **Contributors**: 13
+- **Stars**: 805 · **Forks**: 36 · **Open issues**: 158 · **Contributors**: 13
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **66,650** lines of code across **142** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 1 | 38 | 2 | 2 | 7 | 44 |
-| last60d | 2026-09-25 | 7 | 96 | 3 | 10 | 9 | 96 |
-| 90d | 2026-08-26 | 7 | 133 | 3 | 23 | 9 | 406 |
-| last180d | 2026-05-28 | 11 | 178 | 3 | 30 | 10 | 455 |
-| 360d | 2025-11-29 | 25 | 247 | 3 | 148 | 10 | 649 |
-| last720d | 2024-12-04 | 25 | 247 | 3 | 148 | 10 | 696 |
+| 30d | 2026-10-26 | 1 | 37 | 2 | 2 | 7 | 44 |
+| last60d | 2026-09-26 | 6 | 84 | 3 | 8 | 9 | 96 |
+| 90d | 2026-08-27 | 7 | 133 | 3 | 23 | 9 | 406 |
+| last180d | 2026-05-29 | 11 | 178 | 3 | 30 | 10 | 455 |
+| 360d | 2025-11-30 | 25 | 247 | 3 | 148 | 10 | 649 |
+| last720d | 2024-12-05 | 25 | 247 | 3 | 148 | 10 | 696 |
 
 ## Release assets
 
@@ -81,15 +81,6 @@ Total: **66,650** lines of code across **142** files in the top 5 languages.
 | [vortix_0.6.0_amd64.deb](https://github.com/Harry-kp/vortix/releases/download/v0.6.0/vortix_0.6.0_amd64.deb) | 2.9 MiB | `runtime/deb/amd64` |
 | [vortix_0.6.0_arm64.deb](https://github.com/Harry-kp/vortix/releases/download/v0.6.0/vortix_0.6.0_arm64.deb) | 2.8 MiB | `runtime/deb/arm64` |
 
-## Distribution status
-
-Reported by **7** distros on [repology.org](https://repology.org/project/vortix). **1** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `0.4.3` | ⚠️ outdated |
-| Homebrew | `0.6.0` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for vortix lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `vortix` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -99,4 +90,4 @@ Install metadata for vortix lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:15:42Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T10:01:19Z._
